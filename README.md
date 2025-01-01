@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hesara Dinal</h1>
 <h3 align="center">Full stack developer | Mobile Developer</h3>
 
-- 🔭 I’m currently working on [Car Rental Java Swing Application](https://github.com/HesaraDinal1234/car_rental-java-swing.git)
+- 🔭 I’m currently working on [ToDo List Android App](https://github.com/HesaraDinal1234/ToDoList-Kotlin.git)
 
 - 🌱 I’m currently learning **React , Flutter**
 
