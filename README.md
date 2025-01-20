@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React , Flutter**
 
-- 💬 Ask me about **Java , HTML , MySQL , Dart**
+- 💬 Ask me about **Java , HTML , MySQL , Dart, Kotlin**
 
 - 📫 How to reach me **dinalhesara6@gmail.com**
 
