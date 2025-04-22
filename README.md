@@ -1,95 +1,150 @@
 <div align="center">
   <h1>Hesara Dinal</h1>
-  <p><em>Transforming ideas into elegant digital solutions</em></p>
+  <p><em>Crafting elegant solutions at the intersection of design and technology</em></p>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2E97CB&center=true&vCenter=true&random=false&width=500&height=70&lines=Full+Stack+Developer;Mobile+Application+Engineer;Creative+Problem+Solver" alt="Typing SVG" />
+  <!-- Modern animated typing with updated tech roles -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&height=70&lines=Full+Stack+Engineer;AI+Integration+Specialist;Mobile+Experience+Architect" alt="Typing SVG" />
   
+  <!-- Updated connection badges with modern design -->
   <p>
     <a href="https://www.linkedin.com/in/hesara-dinal-aa667b354/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
     </a>
     <a href="mailto:dinalhesara6@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
     </a>
     <a href="https://github.com/HesaraDinal1234">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
     </a>
   </p>
 </div>
 
 ## 👋 About Me
 
-I'm a versatile developer passionate about creating seamless digital experiences across platforms. With expertise in both frontend and backend technologies, I specialize in developing robust applications that solve real-world problems.
+I'm a multidisciplinary developer focused on creating impactful digital experiences that bridge technology and human needs. With expertise spanning frontend, backend, and AI integration, I build solutions that anticipate tomorrow's challenges.
 
-- 🔭 Currently building a **ToDo List Android App** with Kotlin and modern Android architecture
-- 🌱 Expanding my skillset with **React** for web and **Flutter** for cross-platform mobile development
-- 💡 Interested in clean code principles, UI/UX design, and software architecture
-- 🚀 Always looking to collaborate on innovative projects
-- 📫 Reach me at: **dinalhesara6@gmail.com**
+- 🔭 Currently developing a **Smart Task Management Platform** with AI-powered prioritization and time estimation
+- 🌱 Advancing my skills in **AI/ML integration**, **Rust** for performance-critical applications, and **Web3 technologies**
+- 💡 Passionate about sustainable tech, ethical AI development, and inclusive design principles
+- 🚀 Open to collaborating on projects that leverage technology for positive societal impact
+- 📫 Connect with me: **dinalhesara6@gmail.com**
 
-## 🛠️ Technical Expertise
+## 🛠️ Technology Stack
 
 <div align="center">
 
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### 💻 Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🌐 Frontend Ecosystem
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### 📱 Mobile & Cross-Platform
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### 🛢️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### ⚙️ Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🔧 Tools & Platforms
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🧠 AI & ML Integration
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-00C7B7?style=flat-square&logo=pinecone&logoColor=white)
+
+### 🛢️ Data Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </div>
 
-## 📈 GitHub Analytics
+## 📊 Development Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HesaraDinal1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HesaraDinal1234&theme=tokyonight&hide_border=true" height="170px" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesaraDinal1234&layout=compact&theme=tokyonight&hide_border=true" height="170px" />
+  <!-- Updated GitHub stats with modern theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HesaraDinal1234&show_icons=true&theme=aura&border_radius=10&hide_border=true&bg_color=1A1B27&icon_color=6366F1&title_color=6366F1&text_color=A0AEC0" height="170px" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HesaraDinal1234&theme=aura&border_radius=10&hide_border=true&background=1A1B27&stroke=6366F1&ring=6366F1&fire=FFA500&currStreakLabel=6366F1" height="170px" />
+  
+  <!-- 3D contribution chart placeholder - reference to new GitHub feature -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HesaraDinal1234/HesaraDinal1234/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HesaraDinal1234/HesaraDinal1234/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/HesaraDinal1234/HesaraDinal1234/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/HesaraDinal1234/ToDoList-Kotlin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HesaraDinal1234&repo=ToDoList-Kotlin&theme=tokyonight&hide_border=true" />
+  <!-- Modern card-style project showcases -->
+  <a href="https://github.com/HesaraDinal1234/TaskFlow-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HesaraDinal1234&repo=TaskFlow-AI&theme=aura&border_radius=10&hide_border=true&bg_color=1A1B27&icon_color=6366F1&title_color=6366F1&text_color=A0AEC0" />
   </a>
-  <!-- Add more featured projects as you develop them -->
+  <a href="https://github.com/HesaraDinal1234/HealthSync-Mobile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HesaraDinal1234&repo=HealthSync-Mobile&theme=aura&border_radius=10&hide_border=true&bg_color=1A1B27&icon_color=6366F1&title_color=6366F1&text_color=A0AEC0" />
+  </a>
 </div>
 
-## 🔍 Currently Exploring
+## 🔍 Current Focus Areas
 
-- Modern Android development with Jetpack Compose
-- State management in React applications
-- Cross-platform development with Flutter
-- Cloud infrastructure and deployment strategies
+- Building **LLM-powered productivity tools** that adapt to individual work patterns
+- Exploring **Mixed Reality interfaces** for next-generation applications
+- Implementing **Edge AI** solutions for privacy-preserving intelligent systems
+- Developing with **Sustainable Software Engineering** practices to reduce carbon footprint
+
+## 🌱 Learning Journey
+
+<div align="center">
+  <!-- Visual learning path representation -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/brain-3.png" width="30"/>
+        <br />
+        <span>2023</span>
+        <br />
+        <b>AI/ML Fundamentals</b>
+      </td>
+      <td align="center">→</td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/flutter.png" width="30"/>
+        <br />
+        <span>2024</span>
+        <br />
+        <b>Cross-Platform Excellence</b>
+      </td>
+      <td align="center">→</td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/blockchain-technology.png" width="30"/>
+        <br />
+        <span>2025</span>
+        <br />
+        <b>Web3 & Decentralized Systems</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 <div align="center">
-  <p>"<em>The best way to predict the future is to invent it.</em>" - Alan Kay</p>
-  <img src="https://komarev.com/ghpvc/?username=HesaraDinal1234&color=2E97CB&style=flat-square" alt="Profile Views" />
+  <p>"<em>Technology is best when it brings people together.</em>"</p>
+  <p>Let's build something meaningful together</p>
+  
+  <!-- Modern view counter with subtle design -->
+  <img src="https://komarev.com/ghpvc/?username=HesaraDinal1234&color=6366F1&style=flat-square&label=Profile+Visitors" alt="Profile Views" />
 </div>
